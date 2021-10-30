@@ -21,7 +21,7 @@ The `reinforcement_learning` folder contains two sub-folders: `deep_RL` and `val
 - [`train_and_test.py`](reinforcement_learning/deep_RL/train_and_test.py): this is the main script for training and testing the agent.
 
 `value_iteration` contains the codes for reinforcement learning with discrete states and actions. It has 1 file:
-- [`RL_discrete_state.ipynb`](reinforcement_learning/deep_RL/RL_discrete_state.ipynb): the notebook builds the Gridworld environment and contains the codes for implementing policy evaluation, policy iteration and value iteration.
+- [`RL_discrete_state.ipynb`](reinforcement_learning/value_iteration/RL_discrete_state.ipynb): the notebook builds the Gridworld environment and contains the codes for implementing policy evaluation, policy iteration and value iteration.
 
 
 The `regression` folder contains codes for gradient descent and polynomial regression. It is mainly for learning the optimisation processes behind regressions. The codes are not readily adaptable for actual applications. It has 2 files:
